@@ -1,6 +1,5 @@
 - 🤔 My Name is 夏嘉莫察瓦绒
-- 🔭 I’m currently working on Tencent CSIG Security Department
-- 🌱 I’m currently learning Kafka, trying to implemente a simple client which interact with Kafka server
+- 🔭 I’m currently working on Bytedance Search Ads Department
 - ⚡ Sports: I love Cycling and Hiking, if you love these sports also, we can make a team
 - 📫 How to reach me: minyakonga@gmail.com
 
